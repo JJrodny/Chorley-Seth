@@ -19,7 +19,7 @@
 % pmode open 6
 
 %% Actual code
-% clear all;
+clear all;
 close all;
 wholeNetwork.expId = datestr(now,30);
 wholeNetwork.t = 0;
